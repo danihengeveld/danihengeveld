@@ -2,7 +2,7 @@
 - 19 y/o. Dutch 🇳🇱. Male ♂.
 
 ## I am a Student, Developer and more. 🔥
-- Studying [Software Development][study] at [HAN University of Applied Sciences][han] 🎓
+- 🎓 Studying [Software Development][study] at [HAN University of Applied Sciences][han] 
 - 💻 Software and Hardware enthousiast 
 - 🌎 Dedicated round earther 
 - 🏁 Fan of Formula 1 
