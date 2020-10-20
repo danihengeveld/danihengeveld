@@ -14,7 +14,7 @@
 
 ### Github Stats ⚡
 <img src="https://github-readme-stats-mocha-five.vercel.app/api?username=danihengeveld&show_icons=true&count_private=true&hide_border=true" />
-<img src="https://github-readme-stats-mocha-five.vercel.app/api/top-langs/?username=danihengeveld&show_icons=true&count_private=true&hide_border=true" />
+<img src="https://github-readme-stats-mocha-five.vercel.app/api/top-langs?username=danihengeveld&show_icons=true&count_private=true&hide_border=true" />
 
 ### Recent activity ⚡
 <!--START_SECTION:activity-->
