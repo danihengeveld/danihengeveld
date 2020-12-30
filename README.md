@@ -18,7 +18,7 @@
 
 ### Recent activity ⚡
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/danihengeveld/ReadyCheckBot/issues/5) in [danihengeveld/ReadyCheckBot](https://github.com/danihengeveld/ReadyCheckBot)
+1. 🎉 Merged PR [#6](https://github.com/danihengeveld/ReadyCheckBot/pull/6) in [danihengeveld/ReadyCheckBot](https://github.com/danihengeveld/ReadyCheckBot)
 <!--END_SECTION:activity-->
 
 ### Socials:
