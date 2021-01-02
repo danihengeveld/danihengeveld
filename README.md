@@ -18,7 +18,7 @@
 
 ### Recent activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/danihengeveld/ReadyCheckBot/pull/6) in [danihengeveld/ReadyCheckBot](https://github.com/danihengeveld/ReadyCheckBot)
+1. 🎉 Merged PR [#1](https://github.com/danihengeveld/novatorem/pull/1) in [danihengeveld/novatorem](https://github.com/danihengeveld/novatorem)
 <!--END_SECTION:activity-->
 
 ### Socials:
