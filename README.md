@@ -1,5 +1,5 @@
 ### Hi, I am Dani 👋
-- 19 years young. Dutch. Male ♂.
+- 20 years young. Dutch.
 
 ## I am a Student, Developer and more. 🔥
 - 🎓 Studying [Software Development][study] at [HAN University of Applied Sciences][han] 
