@@ -9,8 +9,8 @@
 [![Spotify](https://novatorem-seven-blush.vercel.app/api/spotify)](https://open.spotify.com/user/danihengeveld)
 
 ### Github Stats ⚡
-<img src="https://github-readme-stats.vercel.app/api?username=danihengeveld&show_icons=true&count_private=true&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=danihengeveld&show_icons=true&count_private=true&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=danihengeveld&show_icons=true&count_private=true&theme=github_dark&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=danihengeveld&show_icons=true&count_private=true&theme=github_dark&include_all_commits=true" />
 
 ### Socials:
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedIn]
