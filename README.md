@@ -12,11 +12,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=danihengeveld&show_icons=true&count_private=true&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danihengeveld&show_icons=true&count_private=true&hide_border=true" />
 
-### Recent activity ⚡
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/danihengeveld/ReadyCheckBot/pull/12) in [danihengeveld/ReadyCheckBot](https://github.com/danihengeveld/ReadyCheckBot)
-<!--END_SECTION:activity-->
-
 ### Socials:
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedIn]
 [<img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge">][stackoverflow]
