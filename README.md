@@ -2,7 +2,7 @@
 - 20 years young. Dutch.
 
 ## I am an IT Consultant, developer and more. 🔥
-- 💼 IT Consultant **@Info Support**
+- 💼 IT Consultant at **Info Support**
 - 💻 Software and hardware enthousiast
 - 🏎 Formula 1 fan 🟠
 
