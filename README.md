@@ -1,9 +1,10 @@
 ### Hi, I am Dani 👋
 - 20 years young. Dutch.
 
-## I am a Student, Developer and more. 🔥
-- 🎓 Studying [Software Development][study] at [HAN University of Applied Sciences][han] 
-- 💻 Software and Hardware enthousiast 
+## I am an IT Consultant, developer and more. 🔥
+- 💼 IT Consultant **@Info Support**
+- 💻 Software and hardware enthousiast
+- 🏎 Formula 1 fan 🟠
 
 ### Now Playing 🎧
 [![Spotify](https://novatorem-seven-blush.vercel.app/api/spotify)](https://open.spotify.com/user/danihengeveld)
