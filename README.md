@@ -6,9 +6,6 @@
 - 💻 Software and hardware enthousiast
 - 🏎 Formula 1 fan 🟠
 
-### Now Playing 🎧
-[![Spotify](https://novatorem-seven-blush.vercel.app/api/spotify)](https://open.spotify.com/user/danihengeveld)
-
 ### Github Stats ⚡
 <img src="https://github-readme-stats.vercel.app/api?username=danihengeveld&show_icons=true&count_private=true&theme=github_dark&include_all_commits=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danihengeveld&show_icons=true&count_private=true&theme=github_dark&include_all_commits=true" />
@@ -37,8 +34,5 @@
 
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
-
-[study]: https://www.han.nl/opleidingen/hbo/hbo-ict/voltijd/
-[han]: https://www.han.nl/
 [linkedIn]: https://www.linkedin.com/in/dani-hengeveld-9934211b9/
 [stackoverflow]: https://stackoverflow.com/users/11504319/dani-hengeveld
